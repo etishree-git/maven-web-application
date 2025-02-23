@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: mavenwebapp
-          image: etishreebehera/maven-web-app:TAG
+          image: etishreebehera/maven-web-app:IMAGE_TAG_PLACEHOLDER
           ports:
             - containerPort: 8080
           resources:
